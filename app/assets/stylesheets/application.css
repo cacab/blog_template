@@ -1,0 +1,36 @@
+
+ .navbar {
+    min-height: 38px;
+    font-family: Lato, sans-serif;
+    padding-bottom: 20px; 
+  
+    }
+  
+  
+    nav ul {
+      margin: 0; 
+      padding: 0; 
+      list-style: none;
+    }
+  
+    nav li {
+      display: inline-block; 
+      margin-left: 70px;
+      padding-top: 15px;
+      padding-bottom: 15px; 
+    }
+  
+    nav a {
+      color: #444; 
+      font-size: 14px; 
+    }
+  
+    nav a:hover {
+      color: #000;
+    }
+
+    h1 {
+        display: flex;
+        justify-content: center;
+        font-family: Lato, sans-serif;
+      }
